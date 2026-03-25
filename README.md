@@ -1,6 +1,6 @@
 # AIPSP — "BMO but make it real"
 
-> A Sony PSP-E1004 rebuilt from the inside out (or hacked from the software up) into a living, talking, game-playing AI companion. Inspired by BMO from Adventure Time — a handheld console that's also your best friend.
+> A Sony PSP-E1004 hacked from the software up into a living, talking, game-playing AI companion. Inspired by BMO from Adventure Time — a handheld console that's also your best friend.
 
 ---
 
